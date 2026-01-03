@@ -69,6 +69,9 @@ Choose your target channel when prompted, and the AI will take over.
 ## ⚠️ Disclaimer
 This is a **Self-bot**. Using automated scripts on user accounts can violate Discord's Terms of Service. Use this at your own risk.
 
+## ⚖️ License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
 
 Made with ❤️ for the **Open Source Society**.
