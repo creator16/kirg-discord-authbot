@@ -17,8 +17,8 @@ Kirg is a high-fidelity Discord user simulator (Self-bot) powered by LLMs. It mi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/kirg.git
-   cd kirg
+   git clone https://github.com/creator16/kirg-discord-authbot.git
+   cd kirg-discord-authbot
    ```
 
 2. **Setup virtual environment**:
